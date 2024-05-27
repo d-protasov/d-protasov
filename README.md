@@ -44,8 +44,7 @@
   second year, I did not think that I would start developing in the field of
   programming, but starting from the 3rd year, I still began to slowly study
   this area. I'm studying programming hard now and I'm not going to stop!<br /><br />-
-  🔭 I am ready for all new projects.<br />- 📚 I am from the city of
-  Orenburg.<br />- ⚡ I love basketball.
+  🔭 I am ready for all new projects.<br />- 📚 I use VS Code<br />- ⚡ I love basketball.
 </p>
 
 <h3 align="left">🛠 Skills:</h3>
