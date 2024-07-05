@@ -22,7 +22,7 @@
       alt="telegram logo"
     />
   </a> <br>
-  <a href="https://infodanya.ru/" style="text-decoration: none; list-style-type:none">
+  <a href="https://infodanya.ru/" style="text-decoration: none; list-style-type:none;">
       My website
   </a>
 </div>
